@@ -18,10 +18,10 @@ This analysis follows the Google Data Analytics Professional Certificate methodo
 ---
 
 ## 🛠️ Tech Stack
-* **Language:** Python
-* **Data Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Kaggle Notebooks
+* **Data Extraction & Querying:** SQL
+* **Data Analysis & Logic:** Microsoft Excel
+* **Visualization:** Microsoft Excel
+* **Platform:** Kaggle
 
 ## 📊 Data Source
 The analysis utilizes the **FitBit Fitness Tracker Data** (available on Kaggle), which contains personal fitness tracker data from thirty fitbit users.
